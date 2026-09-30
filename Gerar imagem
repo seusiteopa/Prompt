@@ -1,0 +1,73 @@
+
+
+ETAPA 1 — ANALISAR + PESQUISAR
+
+A IA recebe a ideia e as referências.
+
+Ela:
+
+interpreta a intenção;
+
+identifica o que precisa ser criado;
+
+pesquisa referências visuais na internet;
+
+analisa essas referências;
+
+decide composição, cenário, câmera, iluminação, materiais, cores, atmosfera, estilo etc.;
+
+define como a imagem deverá ser construída.
+
+
+Não gera o prompt final ainda.
+
+ETAPA 2 — CONSOLIDAR A DIREÇÃO VISUAL
+
+A IA pega o resultado da Etapa 1 e transforma tudo em uma especificação visual objetiva.
+
+Aqui ela resolve:
+
+o que entra;
+
+o que não entra;
+
+composição;
+
+enquadramento;
+
+perspectiva;
+
+iluminação;
+
+materiais;
+
+cores;
+
+profundidade;
+
+estilo;
+
+textos, se houver;
+
+restrições necessárias.
+
+
+Ainda não gera a imagem.
+
+ETAPA 3 — PROMPT FINAL
+
+A IA pega a ideia original + direção visual consolidada e produz UM ÚNICO prompt final em inglês, enxuto e completo.
+
+Esse prompt vai diretamente para:
+
+Gemini → geração da imagem.
+
+E acabou.
+
+Então o fluxo real é:
+
+CLIENTE → ETAPA 1 → ETAPA 2 → ETAPA 3 → GEMINI → IMAGEM
+
+E, principalmente: o cliente não vê nenhuma dessas etapas.
+
+.
